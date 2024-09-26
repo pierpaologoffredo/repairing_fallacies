@@ -31,7 +31,7 @@ This project addresses the challenging task of repairing fallacious arguments in
 
 ## Results
 
-### Fallacy Classification (Macro F1 Score)
+<!-- ### Fallacy Classification (Macro F1 Score)
 
 | Model | Context Only (CO) | No Fallacy Label & Context (NO) |
 |-------|-------------------|--------------------------------|
@@ -46,7 +46,7 @@ This project addresses the challenging task of repairing fallacious arguments in
 |---------|-------------------|----------------------|-----------------|-----------------|
 | Zero-Shot | 0.69 (GPT-4) | 0.71 (GPT-4) | 0.62 (GPT-3.5) | 0.60 (GPT-4) |
 | Few-Shot | 0.71 (Claude 3) | 0.78 (Claude 3) | 0.69 (GPT-3.5) | 0.72 (Gemma 7B) |
-| Fine-Tuning | 0.98 (BART) | 0.98 (BART) | 0.96 (Llama 3) | 0.97 (Llama 3) |
+| Fine-Tuning | 0.98 (BART) | 0.98 (BART) | 0.96 (Llama 3) | 0.97 (Llama 3) | -->
 
 ### Human Evaluation
 
