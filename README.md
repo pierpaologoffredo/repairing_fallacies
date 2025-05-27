@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This repository contains the code and data for the paper "Repairing Fallacious Argumentation in Political Debates" by Pierpaolo Goffredo, Serena Villata, and Elena Cabrio.
+This repository contains the code and data for the paper "Repairing Fallacious Argumentation in Political Debates" by Pierpaolo Goffredo, Deborah Dore, Serena Villata, and Elena Cabrio.
 
 ## Abstract
 
